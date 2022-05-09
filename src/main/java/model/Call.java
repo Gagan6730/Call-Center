@@ -2,8 +2,6 @@ package model;
 
 import lombok.*;
 
-import java.io.*;
-import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
 
 @RequiredArgsConstructor
